@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
 }
 
+/* HEADER */
 #menu-column > ul {
 	list-style: none;
 }
@@ -24,6 +25,8 @@ a {
 	padding: 32px 0;
 }
 
+
+/* MAIN */
 .column {
     width: 33%;
     position: relative;
@@ -78,4 +81,22 @@ a {
     background-color: white;
     padding: 10px;
     font-size: larger;
+}
+
+/* FOOTER */
+.p-footer {
+    color: white;
+}
+
+.s-footer {
+    color: white;
+    font-size: small;
+    padding-right: 5px;
+}
+
+#icon {
+    color: black;
+    background-color: white;
+    margin-top: 5px;
+    margin-right: 3px;
 }
