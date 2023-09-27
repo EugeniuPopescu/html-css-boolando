@@ -99,4 +99,15 @@ a {
     background-color: white;
     margin-top: 5px;
     margin-right: 3px;
+    padding: 1px;
+}
+
+/*** HOOVER ***/
+/* #img1:hover {
+    background-image: url(../img/1b.webp);
+    position: relative;
+} */
+
+#heart:hover {
+    color: red;
 }
