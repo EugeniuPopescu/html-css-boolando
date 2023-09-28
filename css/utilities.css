@@ -5,8 +5,10 @@
 }
 
 .container {
-	max-width: 80%;
+    display: flex;
+	max-width: 1100px;
 	margin: 0 auto;
+    height: 100%;
 }
 
 /*** FLEX ***/
@@ -101,5 +103,5 @@
 .mx-64 { margin: 0 64px; }
 
 /*** BACKGROUND COLORS ***/
-.bg-header { background-color: orangered}
+.bg-header { background-color: #ff6900}
 .bg-footer { background-color: #222222}
